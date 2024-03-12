@@ -68,6 +68,7 @@ static class FluentBuilder
             .Born(DateTime.Now)
             .Build();
 
+        Console.WriteLine("----- Fluent Builder -----");
         Console.WriteLine(me);
     }
 }
