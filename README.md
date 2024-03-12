@@ -2,6 +2,7 @@
 - [Builder](DesignPatterns/Builder.cs)
 - [FluentBuilder](DesignPatterns/FluentBuilder.cs)
 - [Factory](DesignPatterns/Factory.cs)
+- [AbstractFactory](DesignPatterns/AbstractFactory.cs)
 
 ## To run the program
 1. Clone the repo ``git clone https://github.com/itsluminous/DesignPatterns.git``
