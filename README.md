@@ -7,7 +7,8 @@
     - [Prototype](DesignPatterns/Prototype.cs)
     - [Singleton](DesignPatterns/Singleton.cs)
 - Structural
-    - [Adapter](Adapter.cs)
+    - [Adapter](DesignPatterns/Adapter.cs)
+    - [Bridge](DesignPatterns/Bridge.cs)
 - Behaviour
 
 ## To run the program

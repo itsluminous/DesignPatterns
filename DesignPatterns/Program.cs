@@ -19,5 +19,8 @@ Prototype.Execute();
 // Singleton is used when we want only one instance to be available, and no one should be able to create a new instance
 Singleton.Execute();
 
-// Adapter is used to enhance capabilities of existing class without modifying it (Aggregation)
+// Adapter is used to enhance capabilities of existing class without modifying it
 Adapter.Execute();
+
+// Bridge is used to avoid cartesian products due to inheritance. Favour Aggregation over Composition
+Bridge.Execute();
