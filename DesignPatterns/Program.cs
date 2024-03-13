@@ -15,3 +15,6 @@ AbstractFactory.Execute();
 
 // Prototype is used when we want to create a clone of an object
 Prototype.Execute();
+
+// Singleton is used when we want only one instance to be available, and no one should be able to create a new instance
+Singleton.Execute();
