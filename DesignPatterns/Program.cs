@@ -1,4 +1,5 @@
 ﻿using DesignPatterns;
+using DesignPatternsPrototype;
 
 // Builder is used to construct object without worrying about inner implementation
 Builder.Execute();
@@ -11,3 +12,6 @@ Factory.Execute();
 
 // Difference between factory & Abstract Factory is that in Abstract Factory we don't return concrete objects. We return either Abstract class or Interface
 AbstractFactory.Execute();
+
+// Prototype is used when we want to create a clone of an object
+Prototype.Execute();
