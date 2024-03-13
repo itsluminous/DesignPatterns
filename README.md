@@ -6,6 +6,9 @@
     - [AbstractFactory](DesignPatterns/AbstractFactory.cs)
     - [Prototype](DesignPatterns/Prototype.cs)
     - [Singleton](DesignPatterns/Singleton.cs)
+- Structural
+    - [Adapter](Adapter.cs)
+- Behaviour
 
 ## To run the program
 1. Clone the repo ``git clone https://github.com/itsluminous/DesignPatterns.git``

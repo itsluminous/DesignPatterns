@@ -18,3 +18,6 @@ Prototype.Execute();
 
 // Singleton is used when we want only one instance to be available, and no one should be able to create a new instance
 Singleton.Execute();
+
+// Adapter is used to enhance capabilities of existing class without modifying it (Aggregation)
+Adapter.Execute();
