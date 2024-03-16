@@ -25,13 +25,19 @@ Adapter.Execute();
 // Bridge is used to avoid cartesian products due to inheritance. Favour Aggregation over Composition
 Bridge.Execute();
 
+
+// Used to execute instructions one after another (eg. input validations)
+ChainOfResponsibility.Execute();
+
+// Used for defining high level implementation first, and then detailed implementation later using different strategies
+Strategy.Execute();
+
 // TBD
 Composite.Execute();
 Decorator.Execute();
 Facade.Execute();
 Flyweight.Execute();
 Proxy.Execute();
-ChainOfResponsibility.Execute();
 Command.Execute();
 Interpreter.Execute();
 Iterator.Execute();
@@ -40,6 +46,5 @@ Memento.Execute();
 NullObject.Execute();
 Observer.Execute();
 State.Execute();
-Strategy.Execute();
 TemplateMethod.Execute();
 Visitor.Execute();

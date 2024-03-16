@@ -9,8 +9,9 @@
 - Structural
     - [Adapter](DesignPatterns/Adapter.cs)
     - [Bridge](DesignPatterns/Bridge.cs)
-- Behaviour
+- Behavioural
     - [ChainOfResponsibility](DesignPatterns/ChainOfResponsibility.cs)
+    - [Strategy](DesignPatterns/Strategy.cs)
 >   ----   TBD  ----
 - Structural
     - [Composite](DesignPatterns/Composite.cs)
@@ -18,7 +19,7 @@
     - [Facade](DesignPatterns/Facade.cs)
     - [Flyweight](DesignPatterns/Flyweight.cs)
     - [Proxy](DesignPatterns/Proxy.cs)
-- Behaviour
+- Behavioural
     - [Command](DesignPatterns/Command.cs)
     - [Interpreter](DesignPatterns/Interpreter.cs)
     - [Iterator](DesignPatterns/Iterator.cs)
@@ -27,7 +28,6 @@
     - [NullObject](DesignPatterns/NullObject.cs)
     - [Observer](DesignPatterns/Observer.cs)
     - [State](DesignPatterns/State.cs)
-    - [Strategy](DesignPatterns/Strategy.cs)
     - [TemplateMethod](DesignPatterns/TemplateMethod.cs)
     - [Visitor](DesignPatterns/Visitor.cs)
 
