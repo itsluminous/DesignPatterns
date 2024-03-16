@@ -1,4 +1,4 @@
-## Sample collection of some design patterns in C# & .NET
+## Collection of design patterns in C# & .NET, with sample code
 - Creational
     - [Builder](DesignPatterns/Builder.cs)
     - [FluentBuilder](DesignPatterns/FluentBuilder.cs)
@@ -9,7 +9,27 @@
 - Structural
     - [Adapter](DesignPatterns/Adapter.cs)
     - [Bridge](DesignPatterns/Bridge.cs)
+
+>   ----   TBD  ----
+- Structural
+    - [Composite](DesignPatterns/Composite.cs)
+    - [Decorator](DesignPatterns/Decorator.cs)
+    - [Facade](DesignPatterns/Facade.cs)
+    - [Flyweight](DesignPatterns/Flyweight.cs)
+    - [Proxy](DesignPatterns/Proxy.cs)
 - Behaviour
+    - [ChainOfResponsibility](DesignPatterns/ChainOfResponsibility.cs)
+    - [Command](DesignPatterns/Command.cs)
+    - [Interpreter](DesignPatterns/Interpreter.cs)
+    - [Iterator](DesignPatterns/Iterator.cs)
+    - [Mediator](DesignPatterns/Mediator.cs)
+    - [Memento](DesignPatterns/Memento.cs)
+    - [NullObject](DesignPatterns/NullObject.cs)
+    - [Observer](DesignPatterns/Observer.cs)
+    - [State](DesignPatterns/State.cs)
+    - [Strategy](DesignPatterns/Strategy.cs)
+    - [TemplateMethod](DesignPatterns/TemplateMethod.cs)
+    - [Visitor](DesignPatterns/Visitor.cs)
 
 ## To run the program
 1. Clone the repo ``git clone https://github.com/itsluminous/DesignPatterns.git``

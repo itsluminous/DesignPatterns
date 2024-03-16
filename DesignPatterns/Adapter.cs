@@ -67,6 +67,6 @@ class Adapter()
         var line = new Line(1,2,19,17);
         var adapter = new LineToPointAdapter(line);
         adapter.ForEach(DrawPoint);
-        Console.WriteLine("");
+        Console.WriteLine();
     }
 }

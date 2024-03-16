@@ -24,3 +24,22 @@ Adapter.Execute();
 
 // Bridge is used to avoid cartesian products due to inheritance. Favour Aggregation over Composition
 Bridge.Execute();
+
+// TBD
+Composite.Execute();
+Decorator.Execute();
+Facade.Execute();
+Flyweight.Execute();
+Proxy.Execute();
+ChainOfResponsibility.Execute();
+Command.Execute();
+Interpreter.Execute();
+Iterator.Execute();
+Mediator.Execute();
+Memento.Execute();
+NullObject.Execute();
+Observer.Execute();
+State.Execute();
+Strategy.Execute();
+TemplateMethod.Execute();
+Visitor.Execute();
